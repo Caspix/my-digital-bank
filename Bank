@@ -1,7 +1,3 @@
-#Client class
-#name
-#timestamp (optional)
-
 import datetime
 from turtle import settiltangle
 
